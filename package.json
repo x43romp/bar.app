@@ -1,0 +1,23 @@
+{
+  "name": "bar.electron",
+  "version": "0.0.1",
+  "description": "Electron Application for Bar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/x43romp/bar.app"
+  },
+  "keywords": [
+    "electron",
+    "desktop",
+    "bar"
+  ],
+  "author": "John Untivero <jpuntivero@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^1.7.10"
+  }
+}
