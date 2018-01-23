@@ -1,7 +1,6 @@
 const {app, BrowserWindow} = require('electron');
 const path = require('path');
 const url = require('url');
-const server = require('./server');
 
 let win;
 
@@ -38,3 +37,5 @@ app.on('active', () => {
 
 
 // Configure Network Settings
+
+app.setAsDefaultProtocalClient('ghostbario')
