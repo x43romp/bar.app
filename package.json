@@ -1,0 +1,22 @@
+{
+    "name": "bar",
+    "preferGlobal": true,
+    "bin": "app/bar.js",
+    "version": "",
+    "description": "",
+    "main": "app/bar.js",
+    "scripts": {
+      "install": "yarn link bar"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+    "commander": "^2.13.0",
+    "express": "^4.16.2",
+    "forever": "^0.15.3",
+    "forever-monitor": "^1.7.1",
+    "moment": "^2.20.1",
+    "npm": "^5.7.1",
+    "robotjs": "^0.4.7"
+    }
+}
