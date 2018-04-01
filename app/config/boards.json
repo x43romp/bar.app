@@ -1,0 +1,63 @@
+{
+  "ro1d9a8eeb24fa4df5b1d39741aa78a7": {
+    "name": "ro1d9a8eeb24fa4df5b1d39741aa78a7",
+    "datecreate": 1516773431674,
+    "datelatest": 1516773471584,
+    "actions": {
+    "b6f331d1ea074e619ec5ba2d0a060fbc": [
+        {
+        "method": "keytap",
+        "action": "audio_mute"
+        },
+        {
+        "method": "keytap",
+        "action": "audio_vol_up",
+        "loop": 5
+        },
+        {
+        "method": "keytap",
+        "action": "audio_vol_down",
+        "loop": 5
+        }
+    ],
+    "dfd63517101a4d379dc6f7872fa413b5": [
+        {
+        "method": "keytap",
+        "action": "f",
+        "mods": ["control", "command"]
+        }
+    ],
+    "xfd63517101a4d379dc6f7872fa413b5": [
+        {
+        "method": "keytap",
+        "action": "tab",
+        "mods": ["command"]
+        }
+    ]
+    }
+  },
+  "rof7118ff8ea9d42c78eb9c05a61a525": {
+    "name": "rof7118ff8ea9d42c78eb9c05a61a525",
+    "datecreate": 1516773431674,
+    "datelatest": 1516773471584,
+    "actions": {
+    "b6f331d1ea074e619ec5ba2d0a060fbc": [
+        {
+        "method": "keytap",
+        "action": "audio_mute"
+        },
+        {
+        "method": "keytap",
+        "action": "audio_vol_up",
+        "loop": 5
+        },
+        {
+        "method": "keytap",
+        "action": "audio_vol_down",
+        "loop": 5
+        }
+    ],
+    "dfd63517101a4d379dc6f7872fa413b5": []
+    }
+  }
+}
