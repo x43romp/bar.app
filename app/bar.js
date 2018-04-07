@@ -2,7 +2,6 @@
 
 // load global modules
 const program = require(`commander`);
-const express = require(`express`);
 
 // uses bar-server.js
 program

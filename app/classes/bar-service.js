@@ -102,7 +102,7 @@ module.exports = class BarService {
                 message: `${msg}`,
                 start: start,
                 end: moment().format(`x`),
-                duration: (parseInt(moment().format(`x`)) - parseInt(timestart))
+                duration: (parseInt(moment().format(`x`)) - parseInt(start))
             }
         });
     }

@@ -45,3 +45,5 @@ program
     .action(() => {
         cs.statusCheck();
     });
+
+program.parse(process.argv);
